@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Dataset Olist:
+=======
+>>>>>>> 008d6b89d14dd0d9b9582af49fb78ef9beaf39b3
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
