@@ -9,9 +9,9 @@ Project ini berisi perancangan dan implementasi data warehouse untuk pengelolaan
 - GitHub
 
 ## Isi Repository
-- Folder dataset berisi data asli yang diunduh dari Kaggle.
+- Folder dataset berisi link data dari Kaggle.
 - Folder etl berisi file transformation Pentaho (.ktr) dan job (.kjb).
-- Folder sql berisi query pembuatan tabel data warehouse dan query KPI.
+- Folder sql berisi query pembuatan database oltp, database data warehouse dan query KPI.
 - Folder laporan berisi dokumentasi project dalam format PDF.
 
 ## Dataset
